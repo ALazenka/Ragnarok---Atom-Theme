@@ -1,0 +1,15 @@
+{
+  "name": "Ragnarok",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A red hot theme for Atom. Based on a Lava/Fire color palette.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/ragnarok--theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
