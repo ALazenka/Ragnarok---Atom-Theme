@@ -1,5 +1,7 @@
 # ragnarok--theme theme
 
-A short description of your theme.
+A bold and fiery theme for the Atom editor. Works nicely with the default Atom dark theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Feel free to fork this repo and use the theme if the color palette suites your style.
+
+
