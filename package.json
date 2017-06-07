@@ -2,7 +2,7 @@
   "name": "Ragnarok",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A red hot theme for Atom. Based on a Lava/Fire color palette.",
+  "description": "A red hot syntax theme for Atom. Based on a Lava/Fire color palette.",
   "keywords": [
     "syntax",
     "theme"
